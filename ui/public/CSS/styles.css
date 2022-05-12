@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+    font-size: 16pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 100px 20px 100px;
+    padding: 10px;
+}
+section 
+{
+width: 80%;
+padding-left: 30px;
+}
+
+p
+{
+    padding: 20px;
+    font-size: 16pt;
+}
+
+#class
+{
+    width:100%;
+}
+#btn
+{
+    width: 100px;
+    height: 35px;
+    background-color: rgb(243, 233, 233);
+    font-size: 18pt;
+}
+
+form
+{
+width: 60%;
+float: left;
+margin: 20px;
+}
+
+a.active
+{background-color: #D8D8F5;}
